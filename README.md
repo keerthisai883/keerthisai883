@@ -1,16 +1,34 @@
 ### Hi there 👋
-
-<!--
-**keerthisai883/keerthisai883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#  taehyung
+*hi my name is v*<br>
+**i am a good boy**<br>
+***also known as tae***<br>
+![v](https://i1.sndcdn.com/artworks-000559826775-hpbjys-t500x500.jpg)
+|name| nickname| group|
+|----|---------|------|
+|tae|v|bts|
+|jungkook|bunny|bts|
+|namjoon|rm|bts|
+## ordered list
+1. taehyung
+2. tae
+3. v
+### unordered list
+- taehyung
+- namjoon
+- jungkook
+- jimin
+#### nested list
+1. bts
+   * tae
+   * jk
+   * rm
+   * jhope
+   * jimin
+``` python
+a=10
+if a%2==0:
+print("even")
+else:
+print("false")
+```
